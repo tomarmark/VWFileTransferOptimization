@@ -1,0 +1,1 @@
+Host 1|Description|Host 2A|scp|BB|ftp|CB|ftp|DC|rsync|DD|samba|EF|scp|GF|scp|HG|rsync|H
