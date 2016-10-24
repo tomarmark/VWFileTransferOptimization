@@ -10,7 +10,7 @@ Step#2 Inside the directory VWCaseStudy copy the host file (hostfile.txt) attach
 
 Step#3 Open any java application IDE ( Eclipse is preferred) and add the jar files attached here.
 
-Step#4 Once Solution files are added to the Eclipse IDE , go the TestApplication.java file and open this file.
+Step#4 Once Solution files are added to the Eclipse IDE , goto the TestApplication.java file and open this file.
 
 Step#5 Run the TestApplication.class , you will get the options to add a source and destination node. 
 
